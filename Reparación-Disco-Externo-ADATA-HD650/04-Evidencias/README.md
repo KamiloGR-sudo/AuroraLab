@@ -12,8 +12,6 @@ Más que documentar cada paso del proceso, estas evidencias representan el cumpl
 
 ## Evidencia 1 - Linux Mint
 
-El disco fue reconocido y montado correctamente por Linux Mint.
-
 **Imagen 1:** El disco es reconocido y montado correctamente por Linux Mint.
 
 <p align="center">

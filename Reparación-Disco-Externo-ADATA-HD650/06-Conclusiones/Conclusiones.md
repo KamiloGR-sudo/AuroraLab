@@ -33,6 +33,8 @@ Este proyecto demostró la importancia de realizar un diagnóstico antes de apli
 Como resultado, este proyecto se convirtió en el primer caso práctico documentado siguiendo la metodología de AuroraLab y reafirma uno de sus principios fundamentales:
 
 
-![AuroraLab](Logo-v1.0.jpg)
+<p align="center">
+  <img src="Logo v1.jpg" width="700">
+</p>
 
 > **Comprender antes que modificar.**
