@@ -34,7 +34,7 @@ Como resultado, este proyecto se convirtió en el primer caso práctico document
 
 
 <p align="center">
-  <img src="Logo v1.jpg" width="700">
+  <img src="Logo v1.jpg" width="350">
 </p>
 
 > **Comprender antes que modificar.**
