@@ -16,11 +16,15 @@ El disco fue reconocido y montado correctamente por Linux Mint.
 
 **Imagen 1:** El disco es reconocido y montado correctamente por Linux Mint.
 
-![Reconocimiento del disco en Linux Mint](01-Linux-Mint-GNA-1.jpg)
+<p align="center">
+  <img src="01-Linux-Mint-GNA-1.jpg" width="700">
+</p>
 
 **Imagen 2:** Verificación del punto de montaje mediante el comando `df -h`.
 
-![Verificación del montaje en Linux Mint](02-Linux-Mint-GNA-2.jpg)
+<p align="center">
+  <img src="02-Linux-Mint-GNA-2.jpg" width="700">
+</p>
 
 ---
 
@@ -28,4 +32,6 @@ El disco fue reconocido y montado correctamente por Linux Mint.
 
 Windows 10 reconoció correctamente el disco y permitió acceder a la unidad.
 
-![Disco reconocido en Windows 10](03-Windows10-GNA.jpg)
+<p align="center">
+  <img src="03-Windows10-GNA.jpg" width="700">
+</p>
