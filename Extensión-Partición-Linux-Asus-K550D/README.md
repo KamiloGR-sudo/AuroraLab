@@ -102,6 +102,10 @@ Este caso también puso de manifiesto la importancia de planificar cada paso ant
 
 La documentación de este proceso en AuroraLab permitirá utilizar esta experiencia como referencia en futuras ampliaciones de almacenamiento o trabajos similares en otros equipos.
 
+<p align="center">
+  <img src="Resultado Final.jpg" width="400">
+</p>
+
 
 ---
 **Proyecto finalizado:** ✅ Sí
